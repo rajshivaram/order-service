@@ -1,0 +1,12 @@
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\book\BookClient.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\order\domain\Order.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\order\web\OrderController.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\config\DataConfig.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\OrderServiceApplication.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\config\ClientConfig.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\order\domain\OrderStatus.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\book\Book.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\order\domain\OrderRepository.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\order\web\OrderRequest.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\config\ClientProperties.java
+D:\Coding_Workspace\SpringBoot\order-service\src\main\java\com\oceanofbooks\orderservice\order\domain\OrderService.java

@@ -1,0 +1,10 @@
+com\oceanofbooks\orderservice\order\domain\OrderService.class
+com\oceanofbooks\orderservice\book\BookClient.class
+com\oceanofbooks\orderservice\book\Book.class
+com\oceanofbooks\orderservice\order\domain\Order.class
+com\oceanofbooks\orderservice\OrderServiceApplication.class
+com\oceanofbooks\orderservice\config\DataConfig.class
+com\oceanofbooks\orderservice\order\web\OrderController.class
+com\oceanofbooks\orderservice\order\web\OrderRequest.class
+com\oceanofbooks\orderservice\order\domain\OrderRepository.class
+com\oceanofbooks\orderservice\order\domain\OrderStatus.class
